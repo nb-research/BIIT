@@ -30,7 +30,7 @@ BIIT is a **text-only** corpus, curated so that synthesis is decoupled from data
 
 ## Availability
 
-**The BIIT benchmark dataset is available on demand.** It is released strictly for research and evaluation purposes. To request access, please email **udeshayraj@gmail.com** with a brief description of your intended use. Sensitive scenario content carries usage restrictions and is governed accordingly.
+**The BIIT benchmark dataset is available on demand.** It is released strictly for research and evaluation purposes. To request access, please email **udeshyaraj@gmail.com** with a brief description of your intended use. Sensitive scenario content carries usage restrictions and is governed accordingly.
 
 ## Citation
 
@@ -38,5 +38,5 @@ If you use BIIT, please cite the paper. A full citation (BibTeX) will be added h
 
 ## Contact
 
-For dataset access requests and questions, please email **udeshayraj@gmail.com**.
+For dataset access requests and questions, please email **udeshyaraj@gmail.com**.
 
